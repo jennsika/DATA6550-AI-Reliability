@@ -7,7 +7,7 @@
 ## Chat Logs <br>
 - Harper tested ChatGPT. <br>
 - Himani tested Gemini. <br>
-- Jennifer tested Llama. <br>
+- Jennifer tested [Llama](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EbHjuYSe7plFtI9tUT-ZY7QB4AMTkl4NOdKSDWTbeJ6nVg?e=twMg4Y). <br>
 
 # Collaboration <br>
 - Week A <br>
