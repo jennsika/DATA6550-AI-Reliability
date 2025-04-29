@@ -6,7 +6,8 @@
 
 ## Chat Logs <br>
 - Harper tested [ChatGPT](KatesH_Chat_Logs.pdf). <br>
-- Himani tested Gemini. <br>
+- Himani tested Gemini[HPatel_Chat_Logs.pdf](https://github.com/user-attachments/files/19961811/HPatel_Chat_Logs.pdf)
+
 - Jennifer tested [Llama](Module%207%20-%20Chat%20Logs%20-%20Sika.docx.pdf).
 
 
