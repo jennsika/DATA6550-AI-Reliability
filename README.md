@@ -2,12 +2,12 @@
 ## Experiments <br>
 - Harper's individual analysis is linked here. <br>
 - Himani's individual analysis is linked here. <br>
-- Jennifer's individual analysis is linked [here](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EVMKH5kzBIVEp2uRPST5RfoBl2L7vRHqblK4dFA6ODvk_w?e=wGBw0y). <br>
+- Jennifer's individual analysis is linked [here](Module%207%20-%20Individual%20Analysis%20-%20Sika.pdf)
+ . <br>
 
 ## Chat Logs <br>
-- Harper tested ChatGPT. <br>
+- Harper tested [ChatGPT](KatesH_Chat_Logs.pdf). <br>
 - Himani tested Gemini. <br>
-- Jennifer tested [Llama](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/js2je_mtmail_mtsu_edu/EbHjuYSe7plFtI9tUT-ZY7QB4AMTkl4NOdKSDWTbeJ6nVg?e=twMg4Y). <br>
 - Jennifer tested [Llama](Module%207%20-%20Chat%20Logs%20-%20Sika.docx.pdf).
 
 
