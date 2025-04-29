@@ -1,7 +1,7 @@
 # DATA6550-AI-Reliability
 ## Experiments <br>
 - Harper's individual analysis is linked [here](KatesH_Module7_Analysis.pdf). <br>
-- Himani's individual analysis is linked here. <br>
+- Himani's individual analysis is linked [here] (HPatel_Chat_Logs.pdf). <br>
 - Jennifer's individual analysis is linked [here](Module%207%20-%20Individual%20Analysis%20-%20Sika.pdf). <br>
 
 ## Chat Logs <br>
