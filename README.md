@@ -11,9 +11,9 @@
 
 
 ## Collaboration <br>
-- [Week A: Module 7](Module%207%20-%20Week%20A.p)  <br>
-- [Week B: Module 7](Module%207%20-%20Week%20B.pdf)  <br>
-- [Emails: Module 7 Comms](Module%207%20Comms.pdf)  <br>
+- [Week A](Module%207%20-%20Week%20A.p)  <br>
+- [Week B](Module%207%20-%20Week%20B.pdf)  <br>
+- [Emails](Module%207%20Comms.pdf)  <br>
 
 ## Group Synthesis <br>
 Our final paper can be found [here](https://mtmailmtsu-my.sharepoint.com/:w:/g/personal/hek2t_mtmail_mtsu_edu/Ee--bGOm3xNBki04fp-29dMBypMgtO8d_jspBNyy2B7zEw?e=PA6bSG). <br>
